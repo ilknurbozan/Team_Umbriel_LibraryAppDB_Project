@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Team_Umbriel_LibraryAppDB_Project" />
+        <module name="LibraryAppDB_Assignments" />
       </profile>
     </annotationProcessing>
   </component>
