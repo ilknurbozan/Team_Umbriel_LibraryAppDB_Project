@@ -1,0 +1,1 @@
+select * from books where name ='Clean Code' and isbn=040507888;
